@@ -1,0 +1,58 @@
+body {
+	background-color: white;
+	margin: 0;
+	display: flex;
+	justify-content: center;
+  }
+  
+  .container {
+	width: 100%;
+	max-width: 500px;
+	text-align: center;
+  }
+  
+  /* h1 {
+	color: darkpurple;
+	margin-bottom: 1rem;
+  } */
+  
+  .inputSection {
+	display: flex;
+	justify-content: center;
+	gap: 0.5rem;
+  }
+  
+  input[type="text"] {
+	padding: 0.5rem;
+	border: 1px solid black;
+  }
+  
+  button {
+	padding: 0.5rem 1rem;
+	background-color: darkslateblue;
+	color: white;
+	cursor: pointer;
+  }
+  
+  button:hover {
+	background-color: rgb(51, 45, 92);
+  }
+  
+  .shoppingList li {
+	background-color: rgb(216, 193, 246);
+	margin-bottom: 0.5rem;
+	padding: 0.5rem 1rem;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+  }
+  
+  .shoppingList li button {
+	background-color: #ff4d4d;
+	font-size: 0.8rem;
+	padding: 0.3rem 0.6rem;
+  }
+  
+  .shoppingList li button:hover {
+	background-color: #cc0000;
+  }

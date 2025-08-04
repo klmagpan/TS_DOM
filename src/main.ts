@@ -42,6 +42,3 @@ function removeItem(e: Event) {
 	const listItem = removeButton.parentElement;
 	listItem.remove();
 }
-
-// console.log(itemInput);
-// console.log(addButton);
