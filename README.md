@@ -1,6 +1,6 @@
-# Checklist
+# TypeScript Item List
 
-A simple TypeScript Checklist. Built DOM interactions.
+A basic TypeScript Item list project showcasing DOM manipulation.
 
 ## Technologies Used
 TypeScript
