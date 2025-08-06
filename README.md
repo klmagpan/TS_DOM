@@ -11,15 +11,15 @@ These were orginally developed while following the course: https://app.pluralsig
 
 ## Directory Descriptions
 ### 01 - 02
-Lesson 1 - "Understanding DOM Manipulation"
-Lesson 2 - "Exploring the DOM Data Types"
+- Lesson 1 - "Understanding DOM Manipulation"
+- Lesson 2 - "Exploring the DOM Data Types"
 
 ### 03 - 04
-Lesson 3 - "Selecting Elements"
-Lesson 4 - "Creating and Removing Elements"
+- Lesson 3 - "Selecting Elements"
+- Lesson 4 - "Creating and Removing Elements"
 
 ### TypeScript-Checklist (05)
-Lesson 5 - "Manipulating Elements"
+- Lesson 5 - "Manipulating Elements"
 
 ### Wired-Brain-Coffee (06)
-Lesson 6 - "Working with Styles"
+- Lesson 6 - "Working with Styles"
