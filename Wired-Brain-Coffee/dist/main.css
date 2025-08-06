@@ -1,0 +1,45 @@
+.container {
+	text-align: center;
+}
+  
+  .theme-toggle {
+	margin-bottom: 1rem;
+}
+  
+.btn {
+	background-color: burlywood;
+	color: white;
+	padding: 10px 20px;
+	font-size: 1rem;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	transition: background-color 0.2s;
+  }
+  
+.btn:hover {
+	background-color: brown;
+}
+  
+.activeButton {
+	background-color: darkorange !important;
+	font-weight: bold;
+}
+  
+.output-box p {
+	margin: 0.5rem 0;
+	font-size: 1.1rem;
+}
+  
+.dark-theme {
+	background-color: black;
+	color: white;
+}
+  
+.dark-theme .btn {
+	background-color: brown;
+}
+  
+.dark-theme .btn:hover {
+	background-color: burlywood;
+}
