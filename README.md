@@ -15,7 +15,7 @@ Lesson 1 - "Understanding DOM Manipulation"
 Lesson 2 - "Exploring the DOM Data Types"
 
 ### 03 - 04
-Lesson 3 - "Selecting Eleents"
+Lesson 3 - "Selecting Elements"
 Lesson 4 - "Creating and Removing Elements"
 
 ### TypeScript-Checklist (05)
